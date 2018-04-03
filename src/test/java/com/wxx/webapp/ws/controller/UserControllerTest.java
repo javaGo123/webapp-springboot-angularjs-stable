@@ -1,4 +1,4 @@
-package com.leonlu.code.sample.webapp.ws.controller;
+package com.wxx.webapp.ws.controller;
 
 import static org.junit.Assert.*;
 import java.net.URL;
