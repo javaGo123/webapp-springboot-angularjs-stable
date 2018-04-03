@@ -1,0 +1,8 @@
+spring:
+    datasource:
+        driver-class-name: com.mysql.jdbc.Driver
+        url: jdbc:mysql://115.159.218.200:3306/spring_boot
+        username: testuser
+        password: LDuw928hIUH@(E!P@:M
+#    jackson:
+#        serialization-inclusion: non_null
